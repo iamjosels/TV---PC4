@@ -51,14 +51,16 @@ Es un juego 2D desarrollado en Unity en el que controlas a un personaje con la h
 ---
 
 ## 📁 Estructura del proyecto
+
+```plaintext
 Assets/
-├── Art/ # Fondos y sprites
-├── Prefabs/Enemies/ # Prefabs de los 4 enemigos
-├── Scenes/ # Todas las escenas del juego
+├── Art/                    # Fondos y sprites
+├── Prefabs/Enemies/       # Prefabs de los 4 enemigos
+├── Scenes/                # Todas las escenas del juego
 ├── Scripts/
-│ ├── Gameplay/ # Movimiento, enemigos, jugador
-│ ├── Managers/ # GameManager
-│ └── UI/ # Controladores de menú y UI
+│   ├── Gameplay/          # Movimiento, enemigos, jugador
+│   ├── Managers/          # GameManager
+│   └── UI/                # Controladores de menú y UI
 
 ---
 ---
