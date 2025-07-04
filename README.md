@@ -61,7 +61,7 @@ Assets/
 │   ├── Gameplay/          # Movimiento, enemigos, jugador
 │   ├── Managers/          # GameManager
 │   └── UI/                # Controladores de menú y UI
-
+```
 ---
 ---
 
