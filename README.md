@@ -1,6 +1,6 @@
 # Unity 2D Game for UPC
 
-> Proyecto realizado por **José Giovanni Laura Silvera (Código: 202110793)**  
+> Proyecto realizado por **José Giovanni Laura Silvera (Código: 202112986)**  
 > Versión de Unity: `6000.0.45f1`
 
 ---
